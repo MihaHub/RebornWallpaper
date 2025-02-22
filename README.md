@@ -1,3 +1,6 @@
-<h1 style="color: red;">画像はpictureフォルダの中にあります。
+<h1>Pokemon Reborn公式が配布している壁紙
+  <br>
+  <br>
+  画像はpictureフォルダの中にあります。
   <br>バッジ11個目までに登場するキャラクターをまとめました。
 </h1>
