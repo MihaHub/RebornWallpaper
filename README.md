@@ -1,1 +1,3 @@
-please check the "picture" file
+<h1 style="color: red;">画像はpictureフォルダの中にあります。
+  <br>バッジ11個目までに登場するキャラクターをまとめました。
+</h1>
