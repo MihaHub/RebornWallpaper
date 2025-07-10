@@ -4,7 +4,7 @@
   画像はpictureフォルダの中にあります。
   <br>殿堂入りまでに登場するキャラクターをまとめました。
 </h1>
-  <br>更新内容：EveLumi, Zero追加
+  <br>更新内容：EveLumi, Zero, Lin追加
   <br>
   <br>
   <br>
